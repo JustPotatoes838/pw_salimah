@@ -28,7 +28,7 @@
                 <li><a href="#">Kontak</a></li>
             </ul>
 
-            <a href="#" class="btn-nav">Admin</a>
+            <a href="#" class="btn-nav">Login</a>
         </nav>
         <section class="Konten-Utama">
             <div class="main-text">
